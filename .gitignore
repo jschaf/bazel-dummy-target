@@ -1,0 +1,5 @@
+/bazel-bazel-dummy-target
+/bazel-bin
+/bazel-genfiles
+/bazel-out
+/bazel-testlogs
